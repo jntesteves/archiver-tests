@@ -1,0 +1,21 @@
+{
+  "name": "archiver-tests",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iColabora",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^3.1.1",
+    "async": "^3.1.0",
+    "request": "^2.88.0",
+    "zip-stream": "^2.1.2"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
